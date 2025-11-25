@@ -1,9 +1,7 @@
-
-
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hey🕹️&fontAlign=30&fontSize=30&desc=Jeff%20Here&descAlign=60&descAlignY=50&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20Everyone👋&fontSize=90" />
 
 <a href="https://www.linkedin.com/in/jeff-muna-196133264/">
-  <img align="center"  width="700" height="700" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E2ZzN3cTJrN3YwZHhkYmxpd3k5NG9icjVqNnptZW1tdXhjYjNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif"/>
+  <img align="center"  width="800" height="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3o5YmxhbThndXZuczVrbzdrY2x1bndhaDRkbzZ1OXFkNmR5N3M3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RQxrapvTa0Ik07zKvd/giphy.gif"/>
 </a>
 
 ## 🌐 Socials:
@@ -19,7 +17,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JeffM20501&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
-[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffM20501)](https://github.com/anuraghazra/github-readme-stats)
 
