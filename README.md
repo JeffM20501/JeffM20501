@@ -1,5 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent)
+![header](https://capsule-render.vercel.app/api?type=waving)
+
+<a href="https://www.linkedin.com/in/jeff-muna-196133264/">
+  <img  width="700" height="700" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E2ZzN3cTJrN3YwZHhkYmxpd3k5NG9icjVqNnptZW1tdXhjYjNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif"/>
+</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeff-muna) 
